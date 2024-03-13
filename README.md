@@ -1,2 +1,8 @@
 # Art4world
 hola
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x50a24d1ee5F28530c9B5fe825e26E8065F7D834F'
+quorum: 1
